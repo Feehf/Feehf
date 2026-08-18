@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi!! i'm Fernanda
+A Systems Analysis and Development student.
+Currently studying Python, HTML, CSS, and SQL, with an interest in software development.
+Here, I share academic and personal projects.
+
+
 
 <!--
 **Feehf/Feehf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
