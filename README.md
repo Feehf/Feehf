@@ -33,7 +33,7 @@ Tenho interesse em **Desenvolvimento Full Stack, Banco de Dados e Cybersecurity*
 
 Projeto colaborativo desenvolvido em equipe utilizando Python, Flask e SQLite.
 
-Participei como colaboradora no desenvolvimento do projeto.
+Participei como colaboradora no desenvolvimento de um projeto realizado durante o período da faculdade.
 
  [Acessar o projeto](https://github.com/kuandry/actionhub)
 
