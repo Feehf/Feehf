@@ -27,6 +27,9 @@ Tenho interesse em **Desenvolvimento Full Stack, Banco de Dados e Cybersecurity*
 * Aprofundar meus conhecimentos em programação e bancos de dados
 * Continuar construindo uma base sólida para, futuramente, atuar em Cybersecurity
 
+## Em constante evolução
+Estudando → Praticando → Criando projetos → Aprendendo com os erros → Evoluindo  
+
 ## Projetos e colaborações
 
 ### ActionHub
