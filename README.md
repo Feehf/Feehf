@@ -39,7 +39,7 @@ Participei como colaboradora no desenvolvimento de um projeto realizado durante 
 
 ## Contato
 
-[!LinkedIn](https://www.linkedin.com/in/fernandafssf)
+[LinkedIn](https://www.linkedin.com/in/fernandafssf)
 
  [GitHub](https://github.com/Feehf)
  
