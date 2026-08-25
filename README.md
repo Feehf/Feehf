@@ -43,5 +43,5 @@ Participei como colaboradora no desenvolvimento de um projeto realizado durante 
 
  [GitHub](https://github.com/Feehf)
  
- [Gmail](fernandafeitosa002@gmail.com)
+ [Gmail](mailto:fernandafeitosa002@gmail.com)
 
