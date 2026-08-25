@@ -31,7 +31,7 @@ Tenho interesse em **Desenvolvimento Full Stack, Banco de Dados e Cybersecurity*
 
 ### ActionHub
 
-Projeto colaborativo desenvolvido em equipe utilizando Python, Flask e SQLite.
+Projeto colaborativo desenvolvido em equipe utilizando Python, SQLite, HTML e CSS.
 
 Participei como colaboradora no desenvolvimento de um projeto realizado durante o período da faculdade.
 
