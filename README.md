@@ -42,3 +42,6 @@ Participei como colaboradora no desenvolvimento de um projeto realizado durante 
 [LinkedIn](https://www.linkedin.com/in/fernandafssf)
 
  [GitHub](https://github.com/Feehf)
+ 
+ [Gmail](fernandafeitosa002@gmail.com)
+
